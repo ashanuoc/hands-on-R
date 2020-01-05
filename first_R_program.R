@@ -3,3 +3,4 @@ roll <- function(){
   dice <- sample(die, size = 2, replace = TRUE, prob = c(1/8, 1/8, 1/8, 1/8, 1/8, 3/8))
   sum(dice)
 }
+test on vscode
